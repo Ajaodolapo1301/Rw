@@ -1,0 +1,1 @@
+172.20.10.0/28 dev wlan0 proto kernel scope link src 172.20.10.10 

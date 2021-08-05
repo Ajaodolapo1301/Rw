@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="216.481" viewBox="0 0 380 216.481">
+  <g id="Group_5923" data-name="Group 5923" transform="translate(-7807 -9469)">
+    <path id="Path_13432" data-name="Path 13432" d="M0,0H375V216.481H0Z" transform="translate(7807 9469)" fill="#562f6d"/>
+    <g id="Ellipse_381" data-name="Ellipse 381" transform="translate(8065 9524)" fill="none" stroke="#fff" stroke-width="25" opacity="0.07">
+      <circle cx="61" cy="61" r="61" stroke="none"/>
+      <circle cx="61" cy="61" r="48.5" fill="none"/>
+    </g>
+    <path id="Path_13433" data-name="Path 13433" d="M518.931,101.379l15.482-8.951L518.923,83.5,503.43,74.572l.015,17.877.008,17.881Z" transform="matrix(0.259, -0.966, 0.966, 0.259, 7684.862, 10095.679)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" opacity="0.07"/>
+    <g id="Group_5922" data-name="Group 5922" transform="matrix(0.259, -0.966, 0.966, 0.259, 7719.617, 9726.484)" opacity="0.04">
+      <path id="Path_13383" data-name="Path 13383" d="M264.945,229.72c0,5.23-9.275,4.328-9.275,11" transform="translate(0 -10.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      <path id="Path_13384" data-name="Path 13384" d="M264.945,200.647c0,5.231-9.275,4.329-9.275,11" transform="translate(0 -3.533)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      <path id="Path_13385" data-name="Path 13385" d="M264.945,226.186c0-5.231-9.275-4.33-9.275-11" transform="translate(0 -7.067)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      <path id="Path_13386" data-name="Path 13386" d="M255.67,186.111" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      <path id="Path_13387" data-name="Path 13387" d="M264.945,197.114c0-5.23-9.275-4.328-9.275-11" transform="translate(0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+    </g>
+    <rect id="Rectangle_2532" data-name="Rectangle 2532" width="29" height="22" rx="5" transform="matrix(0.921, -0.391, 0.391, 0.921, 7974.732, 9602.275)" fill="#fff" opacity="0.04"/>
+  </g>
+</svg>

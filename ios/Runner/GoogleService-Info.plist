@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87204321952-h1lgm60bs54q627g3akic22aepsja0qn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87204321952-h1lgm60bs54q627g3akic22aepsja0qn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhFhph_xuufq5HM5ZvK2ISaNOMTCXI5mo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87204321952</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.rexWire</string>
+	<key>PROJECT_ID</key>
+	<string>rexwire007</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rexwire007.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87204321952:ios:a3a15157aa34e2e7e347c5</string>
+</dict>
+</plist>

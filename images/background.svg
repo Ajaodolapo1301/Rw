@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="346.224" height="149.338" viewBox="0 0 346.224 149.338">
+  <g id="Group_5925" data-name="Group 5925" transform="translate(-7884 -9936)">
+    <path id="Path_13388" data-name="Path 13388" d="M16,0H330a16,16,0,0,1,16,16V124a16,16,0,0,1-16,16H16A16,16,0,0,1,0,124V16A16,16,0,0,1,16,0Z" transform="translate(7884 9936)" fill="#562f6d"/>
+    <path id="Path_13380" data-name="Path 13380" d="M6579.874,6617.76s-21.187-.234-.173,0c14.909.166,28.253,3.452,35.7,15.13,5.561,8.717,5.881,15.325,3.627,25.884a30.059,30.059,0,0,1-10.544,16.585l-15.092-.341s21.557-32.061-2.53-39.145a59.259,59.259,0,0,0-11.165-2.205c.058-1.247,0-2.542,0-2.542v-4" transform="translate(1554.864 16655.744) rotate(-90)" fill="#fff" opacity="0.11"/>
+    <g id="Ellipse_371" data-name="Ellipse 371" transform="translate(8152 9971)" fill="none" stroke="#fff" stroke-width="25" opacity="0.11">
+      <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+      <circle cx="17.5" cy="17.5" r="5" fill="none"/>
+    </g>
+    <rect id="Rectangle_2511" data-name="Rectangle 2511" width="29" height="22" rx="5" transform="matrix(0.921, -0.391, 0.391, 0.921, 7936.732, 10045.275)" fill="#fff" opacity="0.11"/>
+    <path id="Path_13381" data-name="Path 13381" d="M280.3,132.333a48.443,48.443,0,1,1,0-96.885" transform="translate(7972.667 10230.435) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="22" opacity="0.11"/>
+  </g>
+</svg>

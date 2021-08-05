@@ -1,0 +1,27 @@
+{
+  "status": true,
+  "message": "User profile fetched.",
+  "user": {
+    "firstname": "Jo",
+    "lastname": "Three",
+    "phone_number": "2341234567898765",
+    "email": "adekanbijosteve@gmail.com",
+    "user_mid": "REX_lDcsK3HmfpZ67zAxuLzUk5zWAI9VND2D",
+    "user_tag": "josteve3",
+    "referral_code": "HRizQ1ZHcQj6Gi1",
+    "profile_image": "https:\/\/res.cloudinary.com\/evoting-atbu\/image\/upload\/v1608798033\/scaled_38b2ca36-2c88-4846-90a1-59a3f83948ca6877770864262352441.jpg"
+  },
+  "wallet": {
+    "balance": 0,
+    "continent": "Africa",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "symbol": "\u20a6",
+    "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/79\/Flag_of_Nigeria.svg"
+  },
+  "account": {
+    "bank_account": "Providus Bank",
+    "bank_account_name": "Jo Three",
+    "bank_account_number": "9920419127"
+  }
+}
